@@ -1,0 +1,16 @@
+{
+  "name": "type-n-speak",
+  "version": "1.0.0",
+  "description": "Text to speak and synthesis app using the web speech API",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "dist": "^0.1.2",
+    "gh": "^2.8.9",
+    "gh-pages": "^1.2.0",
+    "pages": "^0.0.16"
+  }
+}
